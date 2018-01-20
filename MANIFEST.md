@@ -1,6 +1,6 @@
-# Inzva Open Source Challenge Day Manifest
+# inzva Open Source Challenge Day Manifest
 
-Inzva Open Source Community aims to spread open source contribution culture among students and young professionals.
+inzva Open Source Community aims to spread open source contribution culture among students and young professionals.
 
 We want people to start their active contribution habit and self-improvement through applying open source best-practices. 
 
@@ -8,7 +8,7 @@ We know everyone likes open source culture but starting coding and participation
 
 \#OSCD is an open source contribution initiative lead by our community members to increase awareness and active participation from different individuals and groups.
 
-Inzva is a talented and socially responsible hacker community backed by Bev.foundation to increase technical capability young computer science enthusiasts.
+inzva is a talented and socially responsible hacker community backed by Bev.foundation to increase technical capability young computer science enthusiasts.
 
 ## How to Apply
 Open Source Challenge Day takes places in the first Sunday of each month. All applicants are expected to follow our Code Of Conduct and then fill out the application form.
